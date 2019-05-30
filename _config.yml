@@ -1,6 +1,7 @@
 # Site
-title: Halve
+title: Aerodynamical Collective
 description: Stylish, Two-Column Jekyll Theme
+baseurl: ""
 url: https://https://aerodynamical-collective.com
 logo: halve.png                                       # Site logo
 locale: en_US
