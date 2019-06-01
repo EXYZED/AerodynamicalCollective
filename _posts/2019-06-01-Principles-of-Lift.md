@@ -13,9 +13,12 @@ tag:
 
 <center> This article is segmented into different levels of knowledge as indicated by a <b>bar of colour</b> at headers.</center>
 
+
 ![DifficultyIndicator](https://img.shields.io/badge/Level-Beginner-brightgreen.svg?style=for-the-badge){: .align-left}
 ![DifficultyIndicator](https://img.shields.io/badge/Level-Intermediate-yellow.svg?style=for-the-badge){: .align-left}
 ![DifficultyIndicator](https://img.shields.io/badge/Level-Advanced-red.svg?style=for-the-badge){: .align-left}
+
+
 
 
 ## What is lift?
