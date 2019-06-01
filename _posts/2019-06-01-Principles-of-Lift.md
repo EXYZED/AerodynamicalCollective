@@ -17,9 +17,8 @@ tag:
 ![DifficultyIndicator](https://img.shields.io/badge/Level-Intermediate-yellow.svg?style=for-the-badge){: .align-left} 
 ![DifficultyIndicator](https://img.shields.io/badge/Level-Advanced-red.svg?style=for-the-badge){: .align-left}
 
-## What is lift?
 
-![](https://img.shields.io/badge/Level-Beginner-brightgreen.svg)
+## What is lift?
 
 ## What causes lift?
 
