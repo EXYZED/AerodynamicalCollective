@@ -11,7 +11,7 @@ tag:
 - Advanced
 ---
 
-<center> This article is segmented into different levels of knowledge as indicated by a <b>bar of colour</b> at headers.</center>
+<center> This article is segmented into different levels of knowledge as indicated by a <b>bar of colour</b> at headers. \n\n</center>
 
 
 ![DifficultyIndicator](https://img.shields.io/badge/Level-Beginner-brightgreen.svg?style=for-the-badge){: .align-left}
