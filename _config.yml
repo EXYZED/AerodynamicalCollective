@@ -1,7 +1,10 @@
 # Site
 title: Aerodynamical Collective
-description: An important tenet in engineering. The underdog.
-url: 
+description: |
+  An important tenet in engineering.
+  The underdog.
+  Created by Antoan P
+url:
 logo: halve.png                                       # Site logo
 locale: en_US
 
