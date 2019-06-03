@@ -11,4 +11,4 @@ tag:
 >Also known as aerofoil, is the XZ cross-sectional shape of a aerodynamic device (i.e. a wing blade)
 
 ### [Camber](#Camber)
-The **asymmetry** between two **acting** surfaces of an airfoil. 
+The **asymmetry** between two **acting** surfaces of an airfoil.
