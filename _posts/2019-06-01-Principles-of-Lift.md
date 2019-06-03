@@ -53,7 +53,7 @@ Navier-Stokes equations, accounting for many parameters such as
 * Pressure
 * Temperature
 * Density
-respective to each other.
+respective to each other. But not limited.
 
 
 ### WIP
