@@ -10,6 +10,11 @@ tag:
 - Intermediate
 - Advanced
 ---
+<script src="//yihui.name/js/math-code.js"></script>
+<!-- Just one possible MathJax CDN below. You may use others. -->
+<script async
+  src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 
 <center> This article is segmented into different levels of knowledge as indicated by a <b>bar of colour</b> at headers.</center>
 
@@ -33,6 +38,13 @@ There are 4 Fundamental forces acting on a flying body
  * **Weight** - Acting vertically downwards due to gravity.
  * **Thrust** - Acting forward parallel to the direction of flight due to artificial propulsion.
  * **Drag** - Acting in reverse to the direction of flight due to aerodynamical effects.
+
+## Aerodynamic Forces acting on a aircraft
+It is better to think of __lift__ and __drag__ as **components** of the aerodynamic force vector.
+
+#### Gravitational
++ The Gravitational force is the body's weight, including all of it's contents (i.e. fuel, passengers and cargo).
+ + Denoted as `$\textbf{W}$`
 
 ## Vector components of lift
 ![DifficultyIndicator](https://img.shields.io/badge/Level-Intermediate-yellow.svg?style=for-the-badge)
