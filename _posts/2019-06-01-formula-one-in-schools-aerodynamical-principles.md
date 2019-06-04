@@ -11,7 +11,8 @@ tag:
 - Automotive
 ---
 
-**Warning Notice:** This page is WIP, some content here may not reflect latest information.{: .notice_danger}
+**Warning Notice:** This page is WIP, some content here may not reflect latest information.
+{: .notice_danger}
 
 ![McLarenHondaFN](https://maxf1.net/wp-content/uploads/2017/02/McLaren-MCL32-nose-front-wing-Foto-XPB-850x491.jpg?x78659){: .align-center}
 
