@@ -27,7 +27,12 @@ Note that air itself, is classified as a fluid.
 
 >Lift is a mechanical aerodynamic force produced by the motion of the airplane through the air. Because lift is a force, it is a vector quantity, having both a magnitude and a direction associated with it. Lift acts through the center of pressure of the object and is directed perpendicular to the flow direction. There are several factors which affect the magnitude of lift. Glenn Research Center.
 
-
+## Forces acting on a aircraft
+There are 4 Fundamental forces acting on a flying body
+ * **Lift** - Acting upwards in a vertical direction caused by net differences in air pressure.
+ * **Weight** - Acting vertically downwards due to gravity.
+ * **Thrust** - Acting forward parallel to the direction of flight due to artificial propulsion.
+ * **Drag** - Acting in reverse to the direction of flight due to aerodynamical effects.
 
 ## Vector components of lift
 ![DifficultyIndicator](https://img.shields.io/badge/Level-Intermediate-yellow.svg?style=for-the-badge)
