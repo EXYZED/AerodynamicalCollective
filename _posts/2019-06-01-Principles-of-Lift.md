@@ -10,11 +10,7 @@ tag:
 - Intermediate
 - Advanced
 ---
-<script src="//yihui.name/js/math-code.js"></script>
-<!-- Just one possible MathJax CDN below. You may use others. -->
-<script async
-  src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
+
 
 <center> This article is segmented into different levels of knowledge as indicated by a <b>bar of colour</b> at headers.</center>
 
@@ -44,7 +40,7 @@ It is better to think of __lift__ and __drag__ as **components** of the aerodyna
 
 #### Gravitational
 + The Gravitational force is the body's weight, including all of it's contents (i.e. fuel, passengers and cargo).
- + Denoted as `$\textbf{W}$`
+ + Denoted as `$\textbf{W}$` $$\textbf{W}$$
 
 ## Vector components of lift
 ![DifficultyIndicator](https://img.shields.io/badge/Level-Intermediate-yellow.svg?style=for-the-badge)
