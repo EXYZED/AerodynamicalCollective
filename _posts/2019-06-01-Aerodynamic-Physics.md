@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Principles of Aerodynamical Physics"
+image: images/AerodynamicPhysicsA380.jpg
 date:   2019-06-01
 time:   14:08
 excerpt: "A statement and evaluation of different lift theories."
@@ -70,7 +71,7 @@ Cred : NASA Glenn Research Center.
 ### Symmetrical Airfoils
 ![DifficultyIndicator](https://img.shields.io/badge/Level-Intermediate-yellow.svg?style=for-the-badge){: .align-left}   
 
-In symmetrical <a href="https://aerodynamical-collective.com/2019/06/03/Disambiguation.html#Airfoil" target="_blank">airfoils</a> - where no <a href="https://aerodynamical-collective.com/2019/06/03/Disambiguation.html#Camber" target="_blank">camber</a> exists. It is important to acknowledge that the shape of the wing is no longer a critical determining factor in lift.
+In symmetrical [airfoils](https://aerodynamical-collective.com/2019/06/03/Disambiguation.html#Airfoil)airfoils</a> - where no camber exists. It is important to acknowledge that the shape of the wing is no longer a critical determining factor in lift.
 The shape of the wing is not the determining factor in lift.  
 
 
@@ -83,5 +84,4 @@ Navier-Stokes equations, accounting for many parameters such as
 * Density
 respective to each other. But not limited.
 
-
-### WIP
+Photo by G-R Mottez on Unsplash
