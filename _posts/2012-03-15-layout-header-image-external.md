@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Layout: Header Image (External URL)"
-image: https://farm5.staticflickr.com/4140/4939863887_84705982fd_b.jpg
+image: https://media-cdn.mclaren.com/media/images/downloads/wallpapers/1920x1200/MSP_ShadowCar_1920x1200.jpg
 categories:
   - Layout
   - Uncategorized
