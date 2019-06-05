@@ -24,12 +24,14 @@ In F1inSchools, the turning aspect of racing no longer exists. Cars will travel 
 
 Although there are many other principles that allow a car to travel fast and first, this article will **mainly** focus on the __aerodynamical__ aspects of F1inSchools racing and may briefly reference other properties.
 
-#The functionality of the Front Wing Apparatus.
+## The functionality of the Front Wing Apparatus.
+
 The design of the front wing plays a critical role in distributing weight, drag and lift components and forces of the vehicle. In many F1inSchools vehicle designs - the center of mass is usually established at the rear-center. Acknowledge that your front wing should be able to counteract this uneven weight by providing a turning moment and aerodynamical downforce component in the opposite turning moment created by the center of mass.
 
 Creating turning moments, in general, will produce overall downforce on the vehicle. The vehicle design should account for creating lift as close as possible towards the center of mass to counteract this effect.
 
-#Tire wake
+## Tire wake
+
 Tire wake occurs when the moving air (also referenced as the freestream flow) collides with the opposing direction created by rotation.
 
 In vehicle aerodynamics, tire wake is a detrimental source of drag. Tire wake causes flow stagnation and separation to occur moderately early -these early occurrences will result in extended wake turbulence. A common way of decreasing this wake turbulence is to reduce the contact between freestream flow and the surface area of the wheel, although many regulations prohibit that from being done - there are artificial means that reduce air and wheel contact, for example:
