@@ -74,7 +74,7 @@ In aerodynamics, the flow about a body is analysed using a co-ordinate system at
 As a frame of reference, the velocity of the aircraft is $$V_a$$ and the velocity of the wind ahead of the aircraft is $$V_w$$.  
 
 In the body's frame of reference.
-$$V_\infinity = V_w - V_a$$ where $$V_{\infinity}$$ is referred as the **freesteam velocity**, this component will also define the freestream direction, this informally referred as the relative wind velocity.
+$$V_\infty = V_w - V_a$$ where $$V_{\infty}$$ is referred as the **freesteam velocity**, this component will also define the freestream direction, this informally referred as the relative wind velocity.
 
 
 ## Incorrect Lift Theories
