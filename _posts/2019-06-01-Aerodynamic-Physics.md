@@ -86,7 +86,7 @@ For most mechanical systems:
 because fuel is being consumed (and so the products of the process of combustion process are emitted), and for this reason:  
 * **Lift will also be treated as a function of time**  
 And because the amount of drag is dependant on the lift:
-* **Drag will also be treated as a function of time**
+* **Drag will also be treated as a function of time**  
 And as drag has a relationship with thrust as defined before:  
 * **Thrust will also be treated as a function of time**.
 
