@@ -76,6 +76,19 @@ As a frame of reference, the velocity of the aircraft is $$V_a$$ and the velocit
 In the body's frame of reference.
 $$V_\infty = V_w - V_a$$ where $$V_{\infty}$$ is referred as the **freesteam velocity**, this component will also define the freestream direction, this informally referred as the relative wind velocity.
 
+We will create these assumptions:  
+* The body is symmetric about the $$y=0$$ plane.
+* The freesteam as has no sideslip (i.e. no components in the y-direction).
+* The angle of attack $$\alpha$$ is the angle between the freestream and $$z=0$$ plane, note that the $$z=0$$ plane is arbitary.  
+But in this circumstance is parallel to a important geometric feature of the plane (such as the floor of the passenger compartment). And can be chosen to pass through the centre of gravity of the aircraft without additional weight (i.e. passengers and cargo).
+
+For these critical factors, they will be geometrically defined as the following: 
+#### Drag
+Will be the component of the aerodynamic force acting opposite the freestream direction.
+
+#### Lift
+Will be the component of the aerodynamic force acting **normal** to the freestream direction. In a three-dimentional flow the normal direction is not unique.
+
 ### Steady Level Flight
 In steady level flight, an assumption is made that the aircraft will have constant velocity during cruise - as a result the acceleration is zero and hence all forces sum to zero. Therefore we may define that:  
 
