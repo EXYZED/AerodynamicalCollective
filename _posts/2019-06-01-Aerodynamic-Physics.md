@@ -75,6 +75,21 @@ As a frame of reference, the velocity of the aircraft is $$V_a$$ and the velocit
 In the body's frame of reference.
 $$V_\infty = V_w - V_a$$ where $$V_{\infty}$$ is referred as the **freesteam velocity**, this component will also define the freestream direction, this informally referred as the relative wind velocity.
 
+### Steady Level Flight
+In steady level flight, an assumption is made that the aircraft will have constant velocity during cruise - as a result the acceleration is zero and hence all forces sum to zero. Therefore we may define that:  
+
+$$L=W$$ - Lift forces are equal to weight forces. Net difference of 0.  
+$$T=D$$ - Thrust forces are equal to Drag. Net difference of 0.  
+
+For most mechanical systems:  
+* **Weight is defined as a function of time**  
+because fuel is being consumed (and so the products of the process of combustion process are emitted), and for this reason:  
+* **Lift will also be treated as a function of time**  
+And because the amount of drag is dependant on the lift:
+* **Drag will also be treated as a function of time**
+And as drag has a relationship with thrust as defined before:  
+* **Thrust will also be treated as a function of time**.
+
 
 ## Incorrect Lift Theories
 
