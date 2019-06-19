@@ -2,12 +2,11 @@
 layout: home
 ---
 # Fundamentals of Aerodynamics
-The field of Aerodynamics is an underrated component as an engineering tenet. Fundamentally, it governs the interaction between a fluid environment with a solid body. Although a solid body may contain other properties that may make it more efficient (i.e. it is lighter in mass), these properties will be overruled by the powerful characteristic of Aerodynamics.
+**The field of Aerodynamics is an underrated component within engineering.**
 
-```
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+It governs the interaction between a fluid environment with a solid body. Although a solid body may contain other properties that may make it more efficient (i.e. it is lighter in mass), these properties will be overruled by the powerful characteristic of Aerodynamics.
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+## Who am I?
+* I am a technical racer for 'X' Formula One Racing team, I drive untested Formula One cars at low speed for 'X' to take results from and extrapolate and analyse.
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
-```
+* I have a strong background in the engineering field and specialise in aerodynamics within my free time and within my job role. I've created this blog as an objective to raise awareness and to provide online resources
