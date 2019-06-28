@@ -37,9 +37,11 @@ Creating turning moments, in general, will produce overall downforce on the vehi
 
 ## Tire wake
 
-Tire wake occurs when the moving air (also referenced as the freestream flow) collides with the opposing direction created by rotation.
+Tire wake occurs when the moving air (also referenced as the freestream flow) collides with the opposing direction created by rotation. These rotating bodies can contribute to up to 40% of the total drag of the complete car, therefore, it can be concluded that the aerodynamic performance of a open-wheel racecar is largely affected by the wheels.
 
-In vehicle aerodynamics, tire wake is a detrimental source of drag. Tire wake causes flow stagnation and separation to occur moderately early - these early occurrences will result in extended wake turbulence. A common way of decreasing this wake turbulence is to reduce the contact between freestream flow and the surface area of the wheel, although many regulations prohibit that from being done - there are artificial means that reduce air and wheel contact, for example:
+With the exception of using smaller sized wheels, not much can be done to limit the wheel drag **directly**
+
+However, a common way of decreasing this wake turbulence is to reduce the contact between freestream flow and the surface area of the wheel, by changing the relative wing position and the wing endplate design to reduce wheel drag **indirectly** although many regulations prohibit that from being done - there are artificial means that reduce air and wheel contact, for example:
 
 ### Creating Aerodynamical Wheel-Wing Interactions
 
@@ -88,4 +90,7 @@ It is also useful to mention that the use of biomimicry is applicable for also r
 
 1. If the wings are just about in contact with the water's surface, then the leak path is sealed as it is interrupted by the surface. Pressures on both sides are not compromised and hence the wing becomes more efficient.
 
-2. The downwash of air behind the wing (created by circulation) reacts against the river's surface, creating a higher pressure underneath the wing - a phenomenon known as 'ground effect'
+2. The downwash of air behind the wing (created by circulation) reacts against the river's surface, creating a higher pressure underneath the wing - a phenomenon known as 'ground effect'.
+
+### Ground Effect
+In aviation, 'ground effect' occurs when the aircraft wings are close to a fixed surface - generating increased lift and reduced aerodynamic drag
