@@ -70,3 +70,22 @@ Because as a turbulent boundary layer is less likely to separate than a laminar 
 It is a misinterpretation to use this information to add excessive amounts of vortex generators to improve the aerodynamic efficiency of a vehicle. Sometimes laminar flow is desired as it produces less air to skin friction than turbulent air flow - but is less resistant to flow separation.
 
 In conclusion, to keep a flow attached to a body as long as possible, vortex generators transfer high energy air near to the car's body as much as possible.
+
+
+## Increasing Wing Efficiency
+
+> Acknowledgements to Adrian Newey's How to Build A Car for this section
+
+An airplane will lift because the contours of its wing cause air to flow at different speeds across the top and bottom side of the airfoil.
+
+The pressure difference across the surface of the wing creates a distortion of the flowing field as it passes through the freestream air, this is known as circulation. In the case of racing cars, this air is projected upwards to create downforce. However, air on the high-pressure contour of the wing will often leak around the edge or tips of the wing and reduce the net difference between both areas, this tip leakage when combined with the forward movement of the vehicle will create a spiral-like structure known as the tip vortex. This tip leakage will reduce the aerodynamical efficiency of the wing.
+
+Tip leakage can be subdued by adding endplates. These endplates prevent the reduction of efficiency by lengthening the path that air leakage follows, hence better maintaining the high pressure above and low pressure below the airfoil.
+
+Tip leakage can also be reduced by increasing span, exemplified by sailplanes which have very long slender wings. Large spans also have an effect on the air leakage path.
+
+It is also useful to mention that the use of biomimicry is applicable for also reducing tip leakage. Heavy river birds such as swans will fly just above the water with the tips of the wing at the edge of dipping into the water, powerful effects can be harnessed from this behavior:
+
+1. If the wings are just about in contact with the water's surface, then the leak path is sealed as it is interrupted by the surface. Pressures on both sides are not compromised and hence the wing becomes more efficient.
+
+2. The downwash of air behind the wing (created by circulation) reacts against the river's surface, creating a higher pressure underneath the wing - a phenomenon known as 'ground effect'
