@@ -11,7 +11,7 @@ tag:
 - Automotive
 ---
 
-**This article was made to commemorate for the past F1inSchools team, PROTOANIC Racing - Winners of the National Autodesk Research and Development award.**
+**This article was made to commemorate for the past F1inSchools team, PROTOANIC Racing - Winners of the UK National Autodesk Research and Development award.**
 
 **We wish to share our ground-breaking research with the world**
 
@@ -19,7 +19,7 @@ tag:
 **Warning Notice:** This page is WIP, some content here may not reflect latest information.
 {: .notice_danger}
 
-![McLarenHondaFN](https://maxf1.net/wp-content/uploads/2017/02/McLaren-MCL32-nose-front-wing-Foto-XPB-850x491.jpg?x78659){: .align-center}
+![McLarenHondaFN](https://images.unsplash.com/photo-1552849397-661879829965?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80){: .align-center}
 
 ## Setting Context
 
