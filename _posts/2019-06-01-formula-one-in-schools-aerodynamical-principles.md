@@ -37,7 +37,7 @@ Creating turning moments, in general, will produce overall downforce on the vehi
 
 ## Tire wake
 
-Tire wake occurs when the moving air (also referenced as the freestream flow) collides with the opposing direction created by rotation. These rotating bodies can contribute to up to 40% of the total drag of the complete car, therefore, it can be concluded that the aerodynamic performance of a open-wheel racecar is largely affected by the wheels.
+Tire wake occurs when the moving air (also referenced as the freestream flow) collides with the opposing direction created by rotation. These rotating bodies can contribute to up to 40% of the total drag of the complete car, therefore, it can be concluded that the aerodynamic performance of a open-wheel racecar is comprehensively affected by the wheels.
 
 With the exception of using smaller sized wheels, not much can be done to limit the wheel drag **directly**
 
