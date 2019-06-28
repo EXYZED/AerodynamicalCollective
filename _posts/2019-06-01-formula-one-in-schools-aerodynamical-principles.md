@@ -31,7 +31,7 @@ Although there are many other principles that allow a car to travel fast and fir
 
 ## The functionality of the Front Wing Apparatus.
 
-The design of the front wing plays a critical role in distributing weight, drag and lift components and forces of the vehicle. In many F1inSchools vehicle designs - the center of mass is usually established at the rear-center. Acknowledge that your front wing should be able to counteract this uneven weight by providing a turning moment and aerodynamical downforce component in the opposite turning moment created by the center of mass.
+The design of the front wing plays a critical role in distributing weight, drag and lift components and forces of the vehicle. In many F1inSchools vehicle designs - the center of mass is usually established at the rear-center due to the added CO2 cartridge. Acknowledge that your front wing should be able to counteract this uneven weight by providing a turning moment and aerodynamical downforce component in the opposite turning moment created by the center of mass.
 
 Creating turning moments, in general, will produce overall downforce on the vehicle. The vehicle design should account for creating lift as close as possible towards the center of mass to counteract this effect.
 
