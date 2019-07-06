@@ -8,6 +8,7 @@ It governs the interaction between a fluid environment with a solid body. Althou
 
 # Who am I?  
 
-I am a reticent technical racer for 'X' Formula One Racing team, I drive untested Formula One cars at low speed for 'X' to take results from and extrapolate and analyse. 
+
+I am a reticent technical racer for 'X' Formula One Racing team, I drive untested Formula One cars at low speed for 'X' to take results from and extrapolate and analyse.
 
 I have a strong background in the engineering field and specialise in aerodynamics within my free time and within my job role. I've created this blog as an objective to raise awareness and to provide online resources
