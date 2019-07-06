@@ -46,10 +46,11 @@ However, a common way of decreasing this wake turbulence is to reduce the contac
 ### Creating Aerodynamical Wheel-Wing Interactions
 
 Creating an aerodynamic device that forces air to move in a different direction away from a solid object will decrease the rate of which air particles collide with the wheel and therefore will better maintain the momentum of motion for both air and solid - such aerodynamic device needs to account for the attack angle which contributes to creating a variant amount of downforce and drag:  
-* An inappropriate high angle of attack will not be efficient as most of the freestream kinetic energy will be transferred through the collision of the aerodynamic device itself. In addition to this, an excessive amount of drag will be created behind this device and is counter-intuitive towards the problem.
-* An inappropriate low angle of attack will be redundant towards the cause of reducing tire wake.
-* A suitable angle of attack would be limited to the technical constraints of the competition - to cover as much as the wheel's contact surface area as possible without violating the regulations.
-* A fillet, tangential to the angle of attack is a feature that can be added to the aerodynamical device to improve the airflow at higher angles of attack
+
+* An inappropriate high angle of attack will not be efficient as most of the freestream kinetic energy will be transferred through the collision of the aerodynamic device itself. In addition to this, an excessive amount of drag will be created behind this device and is counter-intuitive towards the problem,
+* An inappropriate low angle of attack will be redundant towards the cause of reducing tire wake,
+* A suitable angle of attack would be limited to the technical constraints of the competition - to cover as much as the wheel's contact surface area as possible without violating the regulations,
+* A fillet, tangential to the angle of attack is a feature that can be added to the aerodynamical device to improve the airflow at higher angles of attack.
 
 In addition to this -
 
@@ -83,7 +84,7 @@ In conclusion, to keep a flow attached to a body as long as possible, vortex gen
 
 > Credits to Adrian Newey's How to Build A Car for this section
 
-An airplane will lift because the contours of its wing cause air to flow at different speeds across the top and bottom side of the airfoil. You may have heard of this before as **Bernoulli's Principle** or the **Equal Transit Theory.**
+An airplane will lift because the contours of its wing cause air to flow at different speeds across the top and bottom side of the airfoil. You may have heard of this before as **Bernoulli's Principle** or the **Equal Transit Theory**.
 
 The pressure difference across the surface of the wing creates a distortion of the flowing field as it passes through the freestream air, this is known as circulation. In the case of racing cars, **this air is projected upwards to create downforce.** However, air on the high-pressure contour of the wing will often leak around the edge or tips of the wing and reduce the net difference between both areas, this tip leakage when combined with the forward movement of the vehicle will create a spiral-like structure known as the tip vortex. This tip leakage will reduce the aerodynamical efficiency of the wing.
 
@@ -98,4 +99,6 @@ It is also useful to mention that the use of biomimicry is applicable for also r
 2. The downwash of air behind the wing (created by circulation) reacts against the river's surface, creating a higher pressure underneath the wing - a phenomenon known as 'ground effect'.
 
 ### Ground Effect
-In aviation, 'ground effect' occurs when the aircraft wings are close to a fixed surface - generating increased lift and reduced aerodynamic drag
+In aviation, 'ground effect' occurs when the aircraft wings are close to a fixed surface - generating increased lift and reduced aerodynamic drag.
+
+WIP
