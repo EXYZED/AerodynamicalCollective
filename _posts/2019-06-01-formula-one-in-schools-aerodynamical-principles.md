@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "F1inSchools Aerodynamical Priniples"
-date:   2019-06-01
+title:  "F1inSchools Aerodynamical Principles"
+date:   2019-07-05
 excerpt: "Cohesive guide to F1inSchools Aerodynamics."
 tag:
 - F1inSchools
@@ -11,7 +11,7 @@ tag:
 - Automotive
 ---
 
-**This article was made to commemorate for the past F1inSchools team, PROTOANIC Racing - Winners of the UK National Autodesk Research and Development award.**
+**This article was made to commemorate for the past F1inSchools team, [PROTOANIC Racing](https://PROTOANIC.com) - Winners of the UK National Autodesk Research and Development award.**
 
 **We wish to share our ground-breaking research with the world**
 
@@ -67,20 +67,25 @@ When the body's motion is relative to the air, the vortex generator will create 
 
 In other words, vortex generators in Formula One are often used to **delay the flow separation**. It is desirable to reduce flow separation on fast vehicles to reduce the size of wake which coherently will reduce drag as an effect.
 
-Because as a turbulent boundary layer is less likely to separate than a laminar one, this characteristic is achieved by forcing turbulence to occur by drawing in energetic, rapid moving external air into the slow-moving boundary layer.
+Because as a **turbulent boundary layer is less likely to separate than a laminar one**, this characteristic is achieved by forcing turbulence to occur by drawing in energetic, rapid moving external air into the slow-moving boundary layer. This is essentially the basic function of Vortex Generation.
 
 It is a misinterpretation to use this information to add excessive amounts of vortex generators to improve the aerodynamic efficiency of a vehicle. Sometimes laminar flow is desired as it produces less air to skin friction than turbulent air flow - but is less resistant to flow separation.
 
 In conclusion, to keep a flow attached to a body as long as possible, vortex generators transfer high energy air near to the car's body as much as possible.
 
+* Avoid using sharp changes in angles relative to the direction of the wind. This reduces flow separation.
+* Place VG's in front of areas of large streamlined surface area behind.
+
+![Vortex Generation on a Mercedes F1 Vehicle](/images/VortexGenerator_Fig01.png)
+
 
 ## Increasing Wing Efficiency
 
-> Acknowledgements to Adrian Newey's How to Build A Car for this section
+> Credits to Adrian Newey's How to Build A Car for this section
 
-An airplane will lift because the contours of its wing cause air to flow at different speeds across the top and bottom side of the airfoil.
+An airplane will lift because the contours of its wing cause air to flow at different speeds across the top and bottom side of the airfoil. You may have heard of this before as **Bernoulli's Principle** or the **Equal Transit Theory.**
 
-The pressure difference across the surface of the wing creates a distortion of the flowing field as it passes through the freestream air, this is known as circulation. In the case of racing cars, this air is projected upwards to create downforce. However, air on the high-pressure contour of the wing will often leak around the edge or tips of the wing and reduce the net difference between both areas, this tip leakage when combined with the forward movement of the vehicle will create a spiral-like structure known as the tip vortex. This tip leakage will reduce the aerodynamical efficiency of the wing.
+The pressure difference across the surface of the wing creates a distortion of the flowing field as it passes through the freestream air, this is known as circulation. In the case of racing cars, **this air is projected upwards to create downforce.** However, air on the high-pressure contour of the wing will often leak around the edge or tips of the wing and reduce the net difference between both areas, this tip leakage when combined with the forward movement of the vehicle will create a spiral-like structure known as the tip vortex. This tip leakage will reduce the aerodynamical efficiency of the wing.
 
 Tip leakage can be subdued by adding endplates. These endplates prevent the reduction of efficiency by lengthening the path that air leakage follows, hence better maintaining the high pressure above and low pressure below the airfoil.
 
