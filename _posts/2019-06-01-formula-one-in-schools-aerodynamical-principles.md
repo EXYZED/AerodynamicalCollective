@@ -16,7 +16,7 @@ tag:
 **We wish to share our ground-breaking research with the world**
 
 
-**Warning Notice:** This page is WIP, some content here may not reflect latest information.
+**Warning Notice:** This page is WIP, Content in the page is subject to further updates.
 {: .notice_danger}
 
 ![McLarenHondaFN](https://images.unsplash.com/photo-1552849397-661879829965?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80){: .align-center}
@@ -57,7 +57,7 @@ In addition to this -
 
 [Thesis](https://eprints.soton.ac.uk/49927/)
 
-It is crucial to reference, the most interesting conclusion of his research was that the drag components of the front wheel were greater when the front wing ride-heights were high than it is at low ride-heights. This conclusion can be implemented to the design of an F1inSchools vehicle - by keeping the height of the wing as low as possible within the boundaries of the regulation.
+It is crucial to reference from his thesis, the most interesting conclusion of his research was that the drag components of the front wheel were greater when the front wing ride-heights were high than it is at low ride-heights. This conclusion can be implemented to the design of an F1inSchools vehicle - by keeping the height of the wing as low as possible within the boundaries of the regulation.
 
 ## Vortex Generation
 
