@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "F1inSchools Aerodynamical Principles"
-date:   2019-07-05
+date:   2019-07-06
 excerpt: "Cohesive guide to F1inSchools Aerodynamics."
 tag:
 - F1inSchools
