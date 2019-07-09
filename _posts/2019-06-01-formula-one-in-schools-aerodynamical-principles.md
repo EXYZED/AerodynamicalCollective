@@ -39,18 +39,18 @@ Creating turning moments, in general, will produce overall downforce on the vehi
 
 Tire wake occurs when the moving air (also referenced as the freestream flow) collides with the opposing direction created by rotation. These rotating bodies can contribute to up to 40% of the total drag of the complete car, therefore, it can be concluded that the aerodynamic performance of a open-wheel racecar is comprehensively affected by the wheels.
 
-With the exception of using smaller sized wheels, not much can be done to limit the wheel drag **directly**
+With the exception of using smaller sized wheels, not much can be done to limit the wheel drag **directly**.
 
 However, a common way of decreasing this wake turbulence is to reduce the contact between freestream flow and the surface area of the wheel, by changing the relative wing position and the wing endplate design to reduce wheel drag **indirectly** although many regulations prohibit that from being done - there are artificial means that reduce air and wheel contact, for example:
 
 ### Creating Aerodynamical Wheel-Wing Interactions
 
-Creating an aerodynamic device that forces air to move in a different direction away from a solid object will decrease the rate of which air particles collide with the wheel and therefore will better maintain the momentum of motion for both air and solid - such aerodynamic device needs to account for the attack angle which contributes to creating a variant amount of downforce and drag:  
+Creating an aerodynamic device that forces air to move in a different direction away from a solid object will decrease the rate of which air particles collide with the wheel and therefore will better maintain the momentum of motion for both air and solid - such aerodynamic device needs to account for the attack angle of the dominant surface which will be a main contributing factor for creating a variant amount of downforce and drag:  
 
-* An inappropriate high angle of attack will not be efficient as most of the freestream kinetic energy will be transferred through the collision of the aerodynamic device itself. In addition to this, an excessive amount of drag will be created behind this device and is counter-intuitive towards the problem,
-* An inappropriate low angle of attack will be redundant towards the cause of reducing tire wake,
-* A suitable angle of attack would be limited to the technical constraints of the competition - to cover as much as the wheel's contact surface area as possible without violating the regulations,
-* A fillet, tangential to the angle of attack is a feature that can be added to the aerodynamical device to improve the airflow at higher angles of attack.
+* An **inappropriate high angle of attack will not be efficient** as most of the freestream kinetic energy will be transferred through the collision of the aerodynamic device itself. In addition to this, an excessive amount of drag will be created behind this device and is counter-intuitive towards the problem,
+* An **inappropriate low angle of attack will be redundant** towards the cause of reducing tire wake,
+* A suitable angle of attack would be limited to the **technical constraints of the competition** - to cover as much as the wheel's contact surface area as possible without violating the regulations,
+* A fillet, tangential to the angle of attack is a feature that can be added to the aerodynamical device to improve the airflow at higher angles of attack - so that momentum is gradually transferred - to have a smaller impulse effect
 
 In addition to this -
 
@@ -58,11 +58,11 @@ In addition to this -
 
 [Thesis](https://eprints.soton.ac.uk/49927/)
 
-It is crucial to reference from his thesis, the most interesting conclusion of his research was that the drag components of the front wheel were greater when the front wing ride-heights were high than it is at low ride-heights. This conclusion can be implemented to the design of an F1inSchools vehicle - by keeping the height of the wing as low as possible within the boundaries of the regulation.
+It is crucial to reference from his thesis, the most interesting conclusion of his research was that the drag components of the front wheel were greater when the front wing ride-heights were high than it is at low ride-heights. This conclusion can be implemented to the design of an F1inSchools vehicle - by keeping the height of the wing as low as possible within the boundaries of the regulation. **This is later expanded upon in the 'Wing Efficiency' section.
 
 ## Vortex Generation
 
-You may be able to observe that in real Formula One cars, some of many aerodynamical devices are vortex generators. In basic aviation vortex generators are shaped a small vane attached to a lifting surface/airfoil.
+You may be able to observe that in real Formula One cars, some of many aerodynamical devices are vortex generators. In basic aviation vortex generators are shaped as a small vane attached to a lifting surface/airfoil.
 
 When the body's motion is relative to the air, the vortex generator will create a vortex in which will partially remove slow-moving boundary layers in contact with the airfoil surface.
 
