@@ -7,6 +7,9 @@ tag:
 - Intermediate
 ---
 
+**Success Notice:** This post will update on a reoccurring basis.
+{: .notice_success}
+
 ### [Airfoil](#Airfoil)
 >Also known as aerofoil,
 
