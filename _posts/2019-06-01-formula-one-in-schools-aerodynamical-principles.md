@@ -70,7 +70,7 @@ In other words, vortex generators in Formula One are often used to **delay the f
 
 Because as a **turbulent boundary layer is less likely to separate than a laminar one**, this characteristic is achieved by forcing turbulence to occur by drawing in energetic, rapid moving external air into the slow-moving boundary layer. This is essentially the basic function of Vortex Generation.
 
-It is a misinterpretation to use this information to add excessive amounts of vortex generators to improve the aerodynamic efficiency of a vehicle. Sometimes laminar flow is desired as it produces less air to skin friction than turbulent air flow - but is less resistant to flow separation.
+It is a misinterpretation to use this information to add excessive amounts of vortex generators to improve the aerodynamic efficiency of a vehicle. Sometimes laminar flow is desired as it produces less air to skin friction than turbulent air flow - but is less resistant to flow separation, and therefore more volatile to instability.
 
 In conclusion, to keep a flow attached to a body as long as possible, vortex generators transfer high energy air near to the car's body as much as possible.
 
