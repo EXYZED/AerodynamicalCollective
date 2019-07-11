@@ -13,7 +13,9 @@ tag:
 
 # Boundary Layer  
 
-The boundary layer is a relatively thin layer of viscous fluid relatively close and immediate to the solid surface of a wall in contact with the moving stream. The effects of viscosity are significant in the boundary layer.
+The boundary layer is a relatively thin layer of viscous fluid relatively close and immediate to the solid surface of a wall in contact with the moving stream.
+
+**Note that the effects of viscosity are significant in the boundary layer.**
 
 ## Laminar Boundary Layer Flow
 
