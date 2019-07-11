@@ -35,5 +35,5 @@ Low energy laminar flow is likely to break down more suddenly than the turbulent
 The thickness of the boundary layer is ordinarily defined as the distance from the aerodynamic body to the point at which viscous flow velocity is 99% of the free stream velocity.
 
 
-#### Displacement thickness
+#### Displacement thickness  
 -WIP
