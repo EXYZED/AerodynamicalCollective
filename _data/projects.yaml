@@ -8,10 +8,14 @@
   # image: https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
   # completed: true
 
-- title: Test01
-   url: https://aerodynamical-collective.com/formula-one-in-schools-aerodynamical-principles/
-   image: https://images.unsplash.com/photo-1552849397-661879829965?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9
-   completed: true
+-
+  title: Test01
+-
+  url: "https://aerodynamical-collective.com/formula-one-in-schools-aerodynamical-principles/"
+-
+  image: "https://images.unsplash.com/photo-1552849397-661879829965?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9"
+-
+  completed: true
 
 # - title: Daisy Pelican Theme
   # url: http://taylantatli.me/Daisy-Pelican-Theme/
