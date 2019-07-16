@@ -3,6 +3,7 @@ layout: post
 title:  "F1inSchools Aerodynamical Principles"
 date:   2019-07-06
 excerpt: "Cohesive guide to F1inSchools Aerodynamics."
+image: "https://images.unsplash.com/photo-1505739818593-e7506ebf74c0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
 tag:
 - F1inSchools
 - Beginner
@@ -25,9 +26,11 @@ tag:
 
 In Formula One Aerodynamics - most aerodynamic devices focus on the efficient delivery of downforce for the vehicle to attack turns with speed and control. With downforce, drag co-exists as a consequence.
 
-In F1inSchools, the turning aspect of racing no longer exists. Cars will travel down a straight track at high speeds. Alternatively, this is known as a rocket-powered drag race. Many of these aerodynamical devices in Formula One cars are not required and may slow your vehicle down.
+**In F1inSchools, the turning aspect of racing no longer exists.** Cars will travel down a straight track at high speeds. Alternatively, this is known as a rocket-powered drag race. **Many of these aerodynamical devices in Formula One cars are not required and may slow your vehicle down.**
 
 Although there are many other principles that allow a car to travel fast and first (i.e. weight), this article will **mainly** focus on the __aerodynamical__ aspects of F1inSchools racing and may briefly reference other properties.
+
+**In other words - Downforce is a absolute no.**
 
 ## The functionality of the Front Wing Apparatus.
 
