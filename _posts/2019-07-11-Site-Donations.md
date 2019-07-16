@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Your Contribution"
+title:  "Contribute to Us!"
 image: images/AeroIndia.png
 date:   2020-01-01
 time:   00:01
