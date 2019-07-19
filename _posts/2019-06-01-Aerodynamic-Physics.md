@@ -22,8 +22,8 @@ This article is segmented into **different levels of complexity** as indicated b
 {: style="text-align: center;"}
 
 
-Principles of Aerodynamical Physics
----
+# Principles of Aerodynamical Physics
+
 ## What is lift?
 
 ![Beginner](/images/Difficulty/Beginner.svg)
