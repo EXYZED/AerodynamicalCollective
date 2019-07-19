@@ -15,16 +15,19 @@ tag:
 **Warning Notice:** This page is WIP, some content here may not reflect latest information.
 {: .notice_danger}
 
-> Last updated 2019, 19th July
+Last updated 2019, 19th July
+{: style="text-align: center;"}
 
 This article is segmented into **different levels of complexity** as indicated by a **bar of colour at certain headers.**
+{: style="text-align: center;"}
 
 
 Principles of Aerodynamical Physics
 ---
 ## What is lift?
 
-![Beginner](/images/Difficulty/Beginner.svg){: .align-left}
+![Beginner](/images/Difficulty/Beginner.svg)
+{: .align-left}
 
 General contextual knowledge.  
 
@@ -123,7 +126,7 @@ And as drag has a relationship with thrust as defined before:
 
 ![Intermediate](/images/Difficulty/Intermediate.svg){: .align-left}
 
-Pre-requisite to background knowledge.
+Pre-requisite to background knowledge.  
 
 Cred : NASA Glenn Research Center.
  * "Equal Transit / Longer Path Theory"
@@ -135,7 +138,7 @@ Cred : NASA Glenn Research Center.
 
 ![Intermediate](/images/Difficulty/Intermediate.svg){: .align-left}
 
-Pre-requisite to background knowledge.
+Pre-requisite to background knowledge.  
 
 In symmetrical [airfoils](https://aerodynamical-collective.com/2019/06/03/Disambiguation.html#Airfoil) where no camber exists. It is important to acknowledge that the shape of the wing is no longer a critical determining factor in lift.
 The shape of the wing is not the determining factor in lift.  
