@@ -16,11 +16,8 @@ tag:
 
 **We wish to share our ground-breaking research with the world**
 
-
 **Warning Notice:** This page is WIP, Content in the page is subject to further updates.
 {: .notice_danger}
-
-![McLarenHondaFN](https://images.unsplash.com/photo-1552849397-661879829965?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80){: .align-center}
 
 ## Setting Context
 
@@ -101,7 +98,23 @@ It is also useful to mention that the use of biomimicry is applicable for also r
 
 2. The downwash of air behind the wing (created by circulation) reacts against the river's surface, creating a higher pressure underneath the wing - a phenomenon known as 'ground effect'.
 
-### Ground Effect
+## Ground Effect
 In aviation, 'ground effect' occurs when the aircraft wings are close to a fixed surface - generating increased lift and reduced aerodynamic drag.
 
+This is because when the wing is closer to the ground, vortices are interrupted by the ground and therefore reduce in size through dissipation. Downwash is reduced.
+
+**Downwash** is a additional effect on lift for wings in aviation - the pressure differences caused by the "contour of the wing" as mentioned before will produce vortices.
+
+ The downstream component of the force is called **induced drag** because it has been "induced" by the action of the tip vortices.
+
+It is important to note that lift is generally perpendicular to the direction of the relative flow of wind because as downwash 'induces' the relative flow downwards, the angle of which lift is affected.
+
+Therefore: **A lower induced drag and lower downwash will create a greater lift vector.** Due to the angle of downstream component.
+
+>Generally, induced drag is greater at altitudes - as induced drag is reduced at lower altitudes.
+
 WIP
+
+
+
+![McLarenHondaFN](https://images.unsplash.com/photo-1552849397-661879829965?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80){: .align-center}
