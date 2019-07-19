@@ -3,14 +3,13 @@ layout: post
 title:  "Contribute to Us!"
 image: images/BuyACoffee.jpg
 permalink: /Contributions/
-date:   2020-01-01
+date:   2019-01-01
 time:   00:01
-excerpt: "Donate and help me keep this site running."
+excerpt: "Help me keep this site running smoothly."
 exclude: true
 tag:
 ---
 
-With donations as little as 2$, you can buy me a hot cup of cocoa.
 
 ## Mission Statement
 Aerodynamical Collective was founded on the question:
@@ -21,3 +20,17 @@ Despite ground breaking technology and theories we still don't have a distinct p
 We breathe it everyday, we need it to live, yet we really hate it when it comes to the complexity of the interaction between cars, aircraft, buildings, and human nature itself.
 
 I created AC so that anyone else who has shares a similar curiousness in the field can help themselves to information.
+
+## How you can help:
+
+### By donations
+With donations as little as 2$, you can buy me a hot cup of cocoa, they really help when I'm writing these articles.
+
+[insert secure page to PayPal widget]
+### By critique
+I made this website as a hobby- most of the things I write tend to be true based off my own research. Sometimes there may be misinterpretation when I read and I convey a completely different meaning. Or sometimes I get things glaringly wrong.
+
+Anyone can re-write my work - suggest changes through GitHub by directly [editing any of the posts].(https://github.com/EXYZED/AerodynamicalCollective/tree/gh-pages/_posts) These edits will get checked.
+
+Alternatively you can just mail me here:
+**AntoanPhu@gmail.com**
