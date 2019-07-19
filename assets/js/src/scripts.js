@@ -12,7 +12,7 @@ $('.projects-menu-icon').click(function() {
   $(this).toggleClass('active');
   $('.overlay').toggleClass('show');
 });
-  
+
 // All others
 $(document).ready(function() {
 	$('.image-popup').magnificPopup({
@@ -27,8 +27,22 @@ $(document).ready(function() {
       tError: '<a href="%url%">Image #%curr%</a> could not be loaded.',
     },
     removalDelay: 300, // Delay in milliseconds before popup is removed
-    // Class that is added to body when popup is open. 
+    // Class that is added to body when popup is open.
     // make it unique to apply your CSS animations just to this exact popup
     mainClass: 'mfp-fade'
   });
+});
+
+// Scroll animations
+
+$('html,body').animate({
+    scrollTop: $('#anchor').offset().top
+});
+
+$(window).on('hashchange', function(e) {
+    e.preventDefault();
+    var $target = $(window.location.hash);
+    if ( $target.length ) {
+        $('html,body').animate({scrollTop: $target.offset().top});
+    }
 });
