@@ -30,7 +30,7 @@ With donations as little as 2$, you can buy me a hot cup of cocoa, they really h
 ### By critique
 I made this website as a hobby- most of the things I write tend to be true based off my own research. Sometimes there may be misinterpretation when I read and I convey a completely different meaning. Or sometimes I get things glaringly wrong.
 
-Anyone can re-write my work - suggest changes through GitHub by directly [editing any of the posts].(https://github.com/EXYZED/AerodynamicalCollective/tree/gh-pages/_posts) These edits will get checked.
+Anyone can re-write my work - suggest changes through GitHub by directly [editing any of the posts.](https://github.com/EXYZED/AerodynamicalCollective/tree/gh-pages/_posts) These edits will get checked.
 
 Alternatively you can just mail me here:
 **AntoanPhu@gmail.com**
