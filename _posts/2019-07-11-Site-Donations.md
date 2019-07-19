@@ -2,6 +2,7 @@
 layout: post
 title:  "Contribute to Us!"
 image: images/BuyACoffee.jpg
+permalink: /Contributions/
 date:   2020-01-01
 time:   00:01
 excerpt: "Donate and help me keep this site running."
