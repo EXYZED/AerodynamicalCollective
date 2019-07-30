@@ -47,7 +47,7 @@ However, a common way of decreasing this wake turbulence is to reduce the contac
 
 Creating an aerodynamic device that forces air to move in a different direction away from a solid object will decrease the rate of which air particles collide with the wheel and therefore will better maintain the momentum of motion for both air and solid - such aerodynamic device needs to account for the attack angle of the dominant surface which will be a main contributing factor for creating a variant amount of downforce and drag:  
 
-* An **inappropriate high angle of attack will not be efficient** as most of the freestream kinetic energy will be transferred through the collision of the aerodynamic device itself. In addition to this, an excessive amount of drag will be created behind this device and is counter-intuitive towards the problem,
+* An **inappropriate high angle of attack will not be efficient** as most of the free-stream kinetic energy will be transferred through the collision of the aerodynamic device itself. In addition to this, an excessive amount of drag will be created behind this device and is counter-intuitive towards the problem,
 * An **inappropriate low angle of attack will be redundant** towards the cause of reducing tire wake,
 * A suitable angle of attack would be limited to the **technical constraints of the competition** - to cover as much as the wheel's contact surface area as possible without violating the regulations,
 * A fillet, tangential to the angle of attack is a feature that can be added to the aerodynamical device to improve the airflow at higher angles of attack - so that momentum is gradually transferred - to have a smaller impulse effect
@@ -111,6 +111,7 @@ It is important to note that lift is generally perpendicular to the direction of
 
 Therefore: **A lower induced drag and lower downwash will create a greater lift vector.** Due to the angle of downstream component.
 
+Van Den Berg's thesis heavily explores the interaction between the ground effect phenomenon and different wing heights and is worthy to read for additional knowledge.
 >Generally, induced drag is greater at altitudes - as induced drag is reduced at lower altitudes.
 
 WIP
