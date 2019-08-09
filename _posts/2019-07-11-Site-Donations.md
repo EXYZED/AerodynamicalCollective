@@ -19,7 +19,9 @@ Despite ground breaking technology and theories we still don't have a distinct p
 
 We breathe it everyday, we need it to live, yet we really hate it when it comes to the complexity of the interaction between cars, aircraft, buildings, and human nature itself.
 
-I created AC so that anyone else who has shares a similar curiousness in the field can help themselves to information.
+Rather than understanding lift itself we can familiarise with the important concepts that surround it, because they are just as important.
+
+I created AC so that anyone else who has shares a similar curiousness in the field can help themselves to information -
 
 ## How you can help:
 

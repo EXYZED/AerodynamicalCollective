@@ -70,7 +70,7 @@ In other words, vortex generators in Formula One are often used to **delay the f
 
 Because as a **turbulent boundary layer is less likely to separate than a laminar one**, this characteristic is achieved by forcing turbulence to occur by drawing in energetic, rapid moving external air into the slow-moving boundary layer. This is essentially the basic function of Vortex Generation.
 
-It is a misinterpretation to use this information to add excessive amounts of vortex generators to improve the aerodynamic efficiency of a vehicle. Sometimes laminar flow is desired as it produces less air to skin friction than turbulent air flow - but is less resistant to flow separation, and therefore more volatile to instability.
+**It is a great misinterpretation to use this information to add excessive amounts of vortex generators to improve the aerodynamic efficiency of a vehicle.** Sometimes laminar flow is desired as it produces less air to skin friction than turbulent air flow - but is less resistant to flow separation, and therefore more volatile to instability.
 
 In conclusion, to keep a flow attached to a body as long as possible, vortex generators transfer high energy air near to the car's body as much as possible.
 
@@ -107,7 +107,7 @@ This is because when the wing is closer to the ground, vortices are interrupted 
 
  The downstream component of the force is called **induced drag** because it has been "induced" by the action of the tip vortices.
 
-It is important to note that lift is generally perpendicular to the direction of the relative flow of wind because as downwash 'induces' the relative flow downwards, the angle of which lift is affected.
+It is important to note that lift is generally perpendicular to the direction of the relative flow of wind because as downwash 'induces' the relative flow downwards, the angle of which lift is affected. For a inverted wing, having the wing as low as possible will induce such effect and produce a downforce component in the direction of the Z plane.
 
 Therefore: **A lower induced drag and lower downwash will create a greater lift vector.** Due to the angle of downstream component.
 
