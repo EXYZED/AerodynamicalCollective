@@ -29,7 +29,7 @@ I created AC so that anyone else who has shares a similar curiousness in the fie
 ## How you can help:
 
 ### By Donation
-With donations as little as 2$, you can buy me a hot cup of cocoa, they really help when I'm writing these articles. (All donations go towards the development of the site unless it's cocoa). 
+With donations as little as 2$, you can buy me a hot cup of cocoa, they really help when I'm writing these articles. (All donations go towards the development of the site unless it's cocoa).
 
 [PayPal.Me](https://www.paypal.me/F1Antoan)
 
@@ -39,4 +39,4 @@ I made this website as a hobby- most of the things I write tend to be true based
 Anyone can re-write my work - suggest changes through GitHub by directly [editing any of the posts.](https://github.com/EXYZED/AerodynamicalCollective/tree/gh-pages/_posts) These edits will get checked.
 
 Alternatively you can just mail me here:
-**AntoanPhu@gmail.com**
+**Admin@Aerodynamical-Collective.com**
