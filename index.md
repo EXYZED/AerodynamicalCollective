@@ -12,4 +12,4 @@ I am a reticent apprentice aerodynamicist for 'X' Formula One Racing team, I als
 
 I have a strong background in the engineering field and specialise in aerodynamics within my free time and within my job role. I've created this blog as an objective to raise awareness and to provide online resources.
 
-[Help out with my work!](https://aerodynamical-collective.com/Contributions/)
+[**Help out with my work!**](https://aerodynamical-collective.com/Contributions/)

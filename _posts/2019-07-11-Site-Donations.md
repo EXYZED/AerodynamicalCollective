@@ -29,7 +29,7 @@ I created AC so that anyone else who has shares a similar curiousness in the fie
 ## How you can help:
 
 ### By Donation
-With donations as little as 2$, you can buy me a hot cup of cocoa, they really help when I'm writing these articles.
+With donations as little as 2$, you can buy me a hot cup of cocoa, they really help when I'm writing these articles. (All donations go towards the development of the site unless it's cocoa). 
 
 [PayPal.Me](https://www.paypal.me/F1Antoan)
 
