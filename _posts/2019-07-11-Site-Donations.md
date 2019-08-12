@@ -10,6 +10,9 @@ exclude: true
 tag:
 ---
 
+I am a reticent apprentice aerodynamicist for 'X' Formula One Racing team, I also drive untested Formula One cars at low speed in sims for 'X' to take results from and extrapolate and analyse.
+
+I have a strong background in the engineering field and specialise in aerodynamics within my free time and within my job role. I've created this blog as an objective to raise awareness and to provide online resources.   
 
 ## Mission Statement
 Aerodynamical Collective was founded on the question:
@@ -25,11 +28,12 @@ I created AC so that anyone else who has shares a similar curiousness in the fie
 
 ## How you can help:
 
-### By donations
+### By Donation
 With donations as little as 2$, you can buy me a hot cup of cocoa, they really help when I'm writing these articles.
 
-[insert secure page to PayPal widget]
-### By critique
+[PayPal.Me](https://www.paypal.me/F1Antoan)
+
+### By Critique
 I made this website as a hobby- most of the things I write tend to be true based off my own research. Sometimes there may be misinterpretation when I read and I convey a completely different meaning. Or sometimes I get things glaringly wrong.
 
 Anyone can re-write my work - suggest changes through GitHub by directly [editing any of the posts.](https://github.com/EXYZED/AerodynamicalCollective/tree/gh-pages/_posts) These edits will get checked.
