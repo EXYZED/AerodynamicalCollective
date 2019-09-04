@@ -8,6 +8,9 @@ tag:
 - Personal
 ---
 
+**Warning Notice:** This page is WIP, Content in the page is subject to further updates.
+{: .notice_danger}
+
 Vortex generation is a extremely complex field - I've therefore written this article in a format as if you were an engineer who wanted to implement this aerodynamical principle to your car.
 
 You may be able to observe that in real Formula One cars, some of many aerodynamical devices are vortex generators. In basic aviation vortex generators are shaped as a small vane attached to a lifting surface of an airfoil to increase the aerodynamical efficiency of a vehicle.

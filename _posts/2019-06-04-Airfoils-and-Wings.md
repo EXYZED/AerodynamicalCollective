@@ -9,3 +9,6 @@ tag:
 - Intermediate
 - Advanced
 ---
+
+**Warning Notice:** This page is WIP, Content in the page is subject to further updates.
+{: .notice_danger}
