@@ -5,7 +5,10 @@ date:   2019-09-04
 excerpt: "VG's, explained in a perspective of an engineer"
 image: "https://images.unsplash.com/photo-1505739818593-e7506ebf74c0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
 tag:
-- Personal
+- Aerodynamic Device
+- Physics
+- Intermediate
+- Principle
 ---
 
 **Warning Notice:** This page is WIP, Content in the page is subject to further updates.
