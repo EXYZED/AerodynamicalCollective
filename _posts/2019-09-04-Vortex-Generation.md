@@ -6,10 +6,11 @@ excerpt: "VG's, explained in a perspective of an engineer"
 image: "https://images.unsplash.com/photo-1505739818593-e7506ebf74c0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
 tag:
 - Aerodynamic Device
-- Physics
 - Intermediate
 - Principle
 ---
+
+# Vortex Generation
 
 **Warning Notice:** This page is WIP, Content in the page is subject to further updates.
 {: .notice_danger}
@@ -34,11 +35,14 @@ In this context, there is exists a boundary layer with different velocities depe
 This interaction is achieved by using the energy from the high-speed air (where air which is a distance away from the plane of the airfoil, a source of energy) into relatively low-speed air nearer the surface of the airfoil.
 
 ## Energy Transportation
+The objective of vortex generators are to energize the low-energy, low-speed air by utilising the energy ideally from the freestream or energized area above the airfoil.
+
 Vortex generators have an angular feature to their design to produce this effect.
 
 A flat vortex generator with a slight angle against the flow will force air to move faster according to equal transit theory (Bernoulli's principle) - this would create a area of low pressure close to the generator to force high-speed air to transfer their energy into this boundary due to equilibrium effects, energy transfer is occurring and is re-energizing the low-speed air originally on the airfoil skin.
 
 ## Control & Effect
+
 This effect creates a turbulent, high-energy boundary layer - which is less likely to separate than a laminar boundary layer.
 
 This effect is desirable as wake (which is a factor in the magnitude of drag) is reduced, where drag is detrimental to the aerodynamical efficiency of a vehicle.
@@ -51,5 +55,13 @@ On an engineering perspective:
 * Avoid using sharp changes in angles relative to the direction of the wind to preserve laminar flow.
 * Place VG's where effectively used where flow is already separated and not laminar.
 * Experiment with different types of shapes with Vortex Generators to see what effect they have.
+
+
+## Application
+
+### Formula One Aerodynamics
+Formula One front-wing aerodynamics tend to be turbulent, as often informally referenced as (dirty air) - a main factor within creating turbulent forces against the body layer.
+
+Vortex generation is applied on the Formula One vehicle towards the main body component of the car as common turbulence such as the many vortexes created by the front wing (i.e. the Y250 Vortex) has an negative effect on the boundary layer of the main body component. The skin-boundary layer of the body need be re-energised by vortex generators as there is greater travel for the air interaction.
 
 ![Vortex Generation on a Mercedes F1 Vehicle](/images/VortexGenerator_Fig01.png)
