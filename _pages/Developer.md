@@ -8,13 +8,15 @@ excerpt: "Developer Page"
 sitemap : false
 tag: NA
 ---
+
 <style type="text/css">
-  .block-right {
-    width: 70%;
+  .block-left {
+    width: 30%;
   }
 </style>
 
-ABCDEFGHIJKLMNOP
-2321ABE
 
 # Test AB
+
+ABCDEFGHIJKLMNOP
+2321ABED32
