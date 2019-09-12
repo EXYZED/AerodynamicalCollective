@@ -9,15 +9,12 @@ sitemap : false
 tag: NA
 ---
 <style type="text/css">
-  .block-left {
-    width: 0%;
-  }
   .block-right {
-    width: 100%;
+    width: 70%;
   }
 </style>
 
 ABCDEFGHIJKLMNOP
-2321
+2321ABE
 
 # Test AB
