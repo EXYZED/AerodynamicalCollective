@@ -10,10 +10,10 @@ tag: NA
 ---
 <style type="text/css">
   .block-left {
-    width: 50%;
+    width: 0%;
   }
   .block-right {
-    width: 90%;
+    width: 100%;
   }
 </style>
 
