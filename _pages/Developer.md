@@ -10,7 +10,7 @@ tag: NA
 ---
 <style type="text/css">
   .block-left {
-    width: 100%;
+    width: 50%;
   }
   .block-right {
     width: 90%;
@@ -18,5 +18,6 @@ tag: NA
 </style>
 
 ABCDEFGHIJKLMNOP
+2321
 
 # Test AB
