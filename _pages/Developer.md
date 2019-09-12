@@ -13,6 +13,9 @@ tag: NA
   .block-left {
     width: 30%;
   }
+  .block-right {
+    width: 70%;
+  }
 </style>
 
 
