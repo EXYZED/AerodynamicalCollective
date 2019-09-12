@@ -6,7 +6,7 @@ permalink: /Contributions/
 date:   2019-01-01
 time:   00:01
 excerpt: "Help me keep this site running smoothly."
-exclude: true
+sitemap: false
 tag:
 ---
 
