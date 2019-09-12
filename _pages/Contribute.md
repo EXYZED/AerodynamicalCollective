@@ -1,13 +1,10 @@
 ---
-layout: post
-title:  "Contribute to Us!"
+layout: SpecialPost
+title:  "Contributions"
 image: images/BuyACoffee.jpg
 permalink: /Contributions/
-date:   2019-01-01
-time:   00:01
 excerpt: "Help me keep this site running smoothly."
-sitemap: false
-tag:
+sitemap : false
 ---
 
 I am a reticent apprentice aerodynamicist for 'X' Formula One Racing team, I also drive untested Formula One cars at low speed in sims for 'X' to take results from and extrapolate and analyse.

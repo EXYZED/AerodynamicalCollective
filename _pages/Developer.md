@@ -1,7 +1,7 @@
 ---
 layout: SpecialPost
 title:  "Developer Page"
-permalink: /DevPreview.html/
+permalink: /DevPreview/
 date:   2019-01-01
 time:   00:01
 excerpt: "Developer Page"
