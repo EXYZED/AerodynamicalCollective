@@ -1,11 +1,11 @@
 ---
-layout: largepost
-title:  "Test"
-permalink: /Test/
+layout: post
+title:  "Developer Page"
+permalink: /DevPreview.html/
 date:   2019-01-01
 time:   00:01
 excerpt: "Developer Page"
-exclude: true
+sitemap : false
 tag: NA
 ---
 <style type="text/css">
