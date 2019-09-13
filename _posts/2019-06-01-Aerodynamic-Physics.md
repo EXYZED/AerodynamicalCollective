@@ -2,8 +2,7 @@
 layout: post
 title:  "Principles of Aerodynamical Physics"
 image: images/AerodynamicPhysicsA380.jpg
-date:   2019-07-19
-time:   14:08
+date:   2019-09-20
 excerpt: "A statement and evaluation of different lift theories."
 tag:
 - Physics
@@ -49,6 +48,61 @@ There are 4 fundamental forces acting on a flying body:
  * **Weight** - Acting vertically downwards due to gravity.
  * **Thrust** - Acting forward parallel to the direction of flight due to artificial propulsion.
  * **Drag** - Acting in reverse to the direction of flight due to aerodynamical effects.
+
+When the **lift** force is greater than the **weight** force, then the flying body will ascend in altitude. Oppositely, when the **weight** force is greater than the **lift** force, the flying body will descend in altitude.
+
+In a typical aircraft, lift is attached to thrust. The more thrust provided, the more lift is generated. This is due to the nature of how the wings of a aircraft work - Bernoulli's principle __basically__ dictates why this occurs, and is later explored in this post.
+
+{% capture notice-2 %}
+
+### Think
+A:
+* What will happen to the weight of the plane when during flight?
+* How will this effect the lift / thrust of the plane?
+* Why do airlines often partially fuel a plane?
+* What information would the pilot require to determine how much fuel is needed?
+B:
+* How would you describe the atmosphere as you increase in altitude in terms of density?
+* How would this affect the flight of a plane?
+C:
+* In terms of thrust and drag, why do planes have their maximum speed limit?
+* What can be done to the shape of the plane to reduce drag?
+* In terms of the angle of a plane and lift, what could you say about stalling?
+
+{% endcapture %}
+<div class="notice">{{ notice-2 | markdownify }}</div>
+
+## [Angle of Attack](#Angle of Attack)
+
+In aerodynamics, the angle of attack specifies the angle between the chord of a wing and the direction of the relative wind in-front.
+
+There is a relationship between the angle of attack and the lift a plane may produce.
+
+Generally speaking:
+* The higher the angle of attack, the higher the lift co-efficient (a variable mathematically used to determine the behaviour of lift). Provided that, at a certain limit also known as the critical angle of attack isn't breached.
+* If the angle of attack passes the critical angle, the plane will no longer produce lift and will stall. This is also known as the "Stall Angle of Attack"
+
+#### Critical Angle of Attack
+The critical angle of attack is the angle of which produces the maximum lift-coefficient.
+
+Above this critical angle of attack, the plane is said to be in a stall. The airspeed of which the aircraft stalls is dependant on the weight of a plane.
+
+Commonly, for a pilot to exit stall conditions - they would attempt to reorientate the aircraft so that the angle of attack is minimal to the relative wind, which would be significantly inclined due to stalling.
+
+### Think
+A:
+* What is the relationship between angle of attack and lift?
+* How can the co-efficient of lift be used?
+* The critical angle of attack is also known as?
+B:
+* What features can be implemented into a aircraft to prevent stalling?
+* What is the relationship between stall speed and weight?
+C:
+* How does the atmosphere have an affect on the critical angle of attack.
+* How does airspeed interact with stalling?
+
+{% endcapture %}
+<div class="notice">{{ notice-2 | markdownify }}</div>
 
 ## Aerodynamic Forces acting on an aircraft
 
