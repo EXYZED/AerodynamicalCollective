@@ -89,6 +89,7 @@ Above this critical angle of attack, the plane is said to be in a stall. The air
 
 Commonly, for a pilot to exit stall conditions - they would attempt to reorientate the aircraft so that the angle of attack is minimal to the relative wind, which would be significantly inclined due to stalling.
 
+{% capture notice-2 %}
 ### Think
 A:
 * What is the relationship between angle of attack and lift?
