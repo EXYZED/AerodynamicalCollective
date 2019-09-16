@@ -55,15 +55,18 @@ In a typical aircraft, lift is attached to thrust. The more thrust provided, the
 
 {% capture notice-2 %}
 
-### Think
+### Think  
+
 A:
 * What will happen to the weight of the plane when during flight?
 * How will this effect the lift / thrust of the plane?
 * Why do airlines often partially fuel a plane?
-* What information would the pilot require to determine how much fuel is needed?
+* What information would the pilot require to determine how much fuel is needed?  
+
 B:
 * How would you describe the atmosphere as you increase in altitude in terms of density?
-* How would this affect the flight of a plane?
+* How would this affect the flight of a plane?  
+
 C:
 * In terms of thrust and drag, why do planes have their maximum speed limit?
 * What can be done to the shape of the plane to reduce drag?
@@ -90,14 +93,17 @@ Above this critical angle of attack, the plane is said to be in a stall. The air
 Commonly, for a pilot to exit stall conditions - they would attempt to reorientate the aircraft so that the angle of attack is minimal to the relative wind, which would be significantly inclined due to stalling.
 
 {% capture notice-2 %}
-### Think
+### Think  
+
 A:
 * What is the relationship between angle of attack and lift?
 * How can the co-efficient of lift be used?
-* The critical angle of attack is also known as?
+* The critical angle of attack is also known as?  
+
 B:
 * What features can be implemented into a aircraft to prevent stalling?
-* What is the relationship between stall speed and weight?
+* What is the relationship between stall speed and weight?  
+
 C:
 * How does the atmosphere have an affect on the critical angle of attack.
 * How does airspeed interact with stalling?
